@@ -15,5 +15,8 @@ public class Student {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello..");
+		Student s=new Student();
+		s.m1();
+		s.m2();
 	}
 }
